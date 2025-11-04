@@ -1,0 +1,74 @@
+{
+  "welcome": {
+    "es": "¡Hola, soy Serenita 💙! Estoy aquí para acompañarte. ¿Cómo te sientes hoy?",
+    "en": "Hi, I'm Serenita 💙! I'm here to accompany you. How are you feeling today?",
+    "pt": "Oi, eu sou a Serenita 💙! Estou aqui para te acompanhar. Como você está se sentindo hoje?",
+    "fr": "Salut, je suis Serenita 💙! Je suis là pour t'accompagner. Comment te sens-tu aujourd'hui?"
+  },
+  "quickReplies": {
+    "es": [
+      "Bien",
+      "Más o menos",
+      "No muy bien"
+    ],
+    "en": [
+      "Good",
+      "So-so",
+      "Not great"
+    ],
+    "pt": [
+      "Bem",
+      "Mais ou menos",
+      "Não muito bem"
+    ],
+    "fr": [
+      "Bien",
+      "Comme ci, comme ça",
+      "Pas très bien"
+    ]
+  },
+  "affirmations": {
+    "es": [
+      "Eres valioso/a, incluso en los días difíciles.",
+      "Cada pequeño paso cuenta.",
+      "Respira y toma un momento para ti."
+    ],
+    "en": [
+      "You are valuable, even on difficult days.",
+      "Every small step counts.",
+      "Breathe and take a moment for yourself."
+    ],
+    "pt": [
+      "Você é valioso(a), mesmo nos dias difíceis.",
+      "Cada pequeno passo conta.",
+      "Respire e reserve um momento para você."
+    ],
+    "fr": [
+      "Tu es important(e), même dans les jours difficiles.",
+      "Chaque petit pas compte.",
+      "Respire et prends un moment pour toi."
+    ]
+  },
+  "breathExercise": {
+    "es": [
+      "Inhala... 1...2...3",
+      "Mantén... 1...2",
+      "Exhala... 1...2...3"
+    ],
+    "en": [
+      "Breathe in... 1...2...3",
+      "Hold... 1...2",
+      "Breathe out... 1...2...3"
+    ],
+    "pt": [
+      "Inspire... 1...2...3",
+      "Segure... 1...2",
+      "Expire... 1...2...3"
+    ],
+    "fr": [
+      "Inspire... 1...2...3",
+      "Tiens... 1...2",
+      "Expire... 1...2...3"
+    ]
+  }
+}
